@@ -7,7 +7,7 @@ body{
 }
 img{
   float:right;
-  width:760px;
+  max-width:760px;
 }
 
 
@@ -17,7 +17,7 @@ img{
   }
   img{
     float:none;
-	width: 100%;
+	max-width: 100%;
   }
 }
 @media screen and (max-width:320px){
